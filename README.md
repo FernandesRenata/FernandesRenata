@@ -1,6 +1,6 @@
 <h3 align="center">I’m Renata, a 17 year’s old developer.</h3>
 
-- 📫 How to reach me **http://linkedin.com/in/fsouzarenata**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
