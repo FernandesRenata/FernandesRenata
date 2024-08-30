@@ -1,4 +1,4 @@
-<h3 align="center">I’m Renata, a 17 year’s old developer.</h3>
+<h3 align="center">Hey, I'm Renata.</h3>
 
 
 
